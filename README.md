@@ -1,5 +1,5 @@
 # shell
-Simple shell scripts by Michael He
+Shell scripts by Michael He
 
 I've included one shell script in this repository.
 
