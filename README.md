@@ -1,7 +1,7 @@
 # shell
 Shell scripts by Michael He
 
-I've included one shell script in this repository.
+I have included one shell script in this repository.
 
 > 1. headless_chrome.sh
 
